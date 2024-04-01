@@ -2,7 +2,6 @@
 
 Angular project with Github Actions for preview and production deployment to [Vercel](https://vercel.com).
 
-🍿 YouTube Tutorial: https://youtu.be/FHVaWZjWec4
 
 ## The Pipelines
 
